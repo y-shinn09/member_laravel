@@ -1,0 +1,74 @@
+.form-group{
+    display: block; 
+    margin-top: 100;
+}
+
+.taitoru{
+    display: block; 
+    text-align: center;
+}
+
+
+
+.form-control {
+    margin: 0 0 10px 0;
+    width: 250;
+    height: 30;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btn-g{
+    width: 160;
+    padding: 5px;
+    margin: 5px 0 5px 0;
+    justify-content: center;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.touroku {
+    
+    text-align: end;
+    margin-right: 655px;
+}
+
+
+
+
+.table {
+    width: 600px;
+    border-collapse: collapse;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.table-text {
+    padding: 5px 20px 5px 20px;
+    
+}
+
+.panel-body {
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+
+}
+.panelkun  {
+    text-align: end;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    flex-direction: column;
+}
+
